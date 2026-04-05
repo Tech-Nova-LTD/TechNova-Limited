@@ -69,6 +69,13 @@ body {
   cursor: pointer;
 }
 
+.nav-logo img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .nav-menu {
   display: flex;
   list-style: none;
